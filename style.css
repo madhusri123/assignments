@@ -1,0 +1,16 @@
+h1,div,h4
+{
+width:500px;
+margin:auto;
+
+}
+
+p{
+text-align:center;
+border:3px solid grey;
+margin-left:400px;
+margin-right:400px;
+height:20px;
+padding:30px;
+}
+
